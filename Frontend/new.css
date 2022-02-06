@@ -1,0 +1,24 @@
+.container{
+    width: 400px;
+    height: auto;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 35%;
+    /* margin-right: 50%; */
+    margin-top: 10%;
+    gap: 10px;
+    border: 5px solid black;
+  }
+  
+  #display_image{
+    width: 256px;
+    height: 256px;
+    border-radius: 2rem;
+    border: 1px dotted black;
+    background-position: center;
+    background-color:rgb(182, 182, 182);
+    background-size: cover;
+  }
